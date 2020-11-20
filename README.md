@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/YiKeA/YiKeAa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YiKeA/YiKeAa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+＃琉璃
+##这是银临新专辑《琉璃》的专辑介绍，来自百度百科
+###生来澄明，照见秋水泱泱，群星煌煌。
+绀碧江天，鹅黄柳梢，和鸣风铎，啁啾飞鸟。
+若众色萧条，众声如一，有何意趣
+世人侧目，自我犹疑，于深渊，于骇浪，又如何安放此心
+洒落奔赴，酣畅相拥，是柔软多情，亦是大无畏。
+心不为形役，便得自在，去住无碍，林籁山光，倏尔解缚。
+琉璃者，如你如歌。
